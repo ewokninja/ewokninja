@@ -5,8 +5,6 @@ Hi, I'm JT. I'm not a professional developer; I'm more of a hobbyist in all thin
 
 [![alt text][1.1]][1] [![alt text][2.1]][2] [![alt text][3.1]][3]
 
----
-
 * :evergreen_tree: working on personal wellbeing
 * :books: learning [ansible][ansible] and [houdini][houdini]
 * :crown: dungeons and dragons enthusiast
