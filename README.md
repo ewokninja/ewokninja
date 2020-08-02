@@ -18,7 +18,7 @@ I'm JT. I'm not a professional developer; I'm more of a hobbyist in all things L
 
 ---
 
-:black_nib: Latest Blog Posts
+### :black_nib: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
