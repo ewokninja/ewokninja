@@ -1,5 +1,11 @@
 Hi, I'm JT. I'm not a professional developer; I'm more of a hobbyist in all things Linux and System Administration. By trade I work in entertainment and travel/tourism having served in most of the behind the scenes technology positions for [Premier Cruise Line][pcl], [Disney Cruise Line][dcl], and [Holland America Line][hal]. Most recently I've been working for [Lucid Creative][lucid] as Operations Manager handling our interactions with a few major clients and handling our system administration needs for our development branch.
 
+
+---
+![[alt text][1.1]][1]
+---
+
+
 * :evergreen_tree: working on personal wellbeing
 * :books: learning [ansible][ansible] and [houdini][houdini]
 * :crown: dungeons and dragons enthusiast
@@ -14,9 +20,30 @@ Hi, I'm JT. I'm not a professional developer; I'm more of a hobbyist in all thin
 ---
 [![Ewokninja's github stats](https://github-readme-stats.vercel.app/api?username=ewokninja&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- link definitions -->
+
 [pcl]:https://en.wikipedia.org/wiki/Premier_Cruise_Line
 [dcl]:https://disneycruise.disney.go.com/
 [hal]:https://www.hollandamerica.com/
 [lucid]:http://lucid.rocks/
 [ansible]:https://www.ansible.com/
 [houdini]:https://www.sidefx.com/
+
+<!-- links to your social media accounts -->
+
+[1]: http://www.twitter.com/ewokninja
+[2]: http://www.facebook.com/ewokninja
+[3]: http://linkedin.com/in/jontom
+
+
+<!-- links to social media icons -->
+
+[1.1]: https://raw.githubusercontent.com/konsav/social-icons/master/readme-images/preview.png (twitter icon)
+[2.1]: https://raw.githubusercontent.com/konsav/social-icons/master/readme-images/preview.png (facebook icon)
+[3.1]: https://raw.githubusercontent.com/konsav/social-icons/master/readme-images/preview.png (linkedin icon)
+[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
+[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+
+
