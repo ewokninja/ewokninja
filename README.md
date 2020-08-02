@@ -2,9 +2,10 @@ Hi, I'm JT. I'm not a professional developer; I'm more of a hobbyist in all thin
 
 
 ---
-[![alt text][1.1]][1] [![alt text][2.1]][2] [![alt text][3.1]][3]
----
 
+[![alt text][1.1]][1] [![alt text][2.1]][2] [![alt text][3.1]][3]
+
+---
 
 * :evergreen_tree: working on personal wellbeing
 * :books: learning [ansible][ansible] and [houdini][houdini]
@@ -15,9 +16,8 @@ Hi, I'm JT. I'm not a professional developer; I'm more of a hobbyist in all thin
 * :bowtie: pronouns he/him
 * :mortar_board: fun fact: I've been to every continent save antarctica
 
-
-
 ---
+
 [![Ewokninja's github stats](https://github-readme-stats.vercel.app/api?username=ewokninja&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- link definitions -->
@@ -41,9 +41,3 @@ Hi, I'm JT. I'm not a professional developer; I'm more of a hobbyist in all thin
 [1.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-24x24.png (twitter icon)
 [2.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-24x24.png (facebook icon)
 [3.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-24x24.png (linkedin icon)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-
-
