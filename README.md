@@ -38,9 +38,9 @@ Hi, I'm JT. I'm not a professional developer; I'm more of a hobbyist in all thin
 
 <!-- links to social media icons -->
 
-[1.1]: https://raw.githubusercontent.com/konsav/social-icons/master/readme-images/preview.png (twitter icon)
-[2.1]: https://raw.githubusercontent.com/konsav/social-icons/master/readme-images/preview.png (facebook icon)
-[3.1]: https://raw.githubusercontent.com/konsav/social-icons/master/readme-images/preview.png (linkedin icon)
+[1.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-retweet-24x24.png (twitter icon)
+[2.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-24x24.png (facebook icon)
+[3.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-24x24.png (linkedin icon)
 [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
