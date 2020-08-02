@@ -18,6 +18,13 @@ I'm JT. I'm not a professional developer; I'm more of a hobbyist in all things L
 
 ---
 
+:black_nib: Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 [![Ewokninja's github stats](https://github-readme-stats.vercel.app/api?username=ewokninja&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- link definitions -->
