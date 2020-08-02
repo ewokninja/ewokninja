@@ -2,7 +2,7 @@ Hi, I'm JT. I'm not a professional developer; I'm more of a hobbyist in all thin
 
 
 ---
-![[alt text][1.1]][1]
+[![alt text][1.1]][1]
 ---
 
 
