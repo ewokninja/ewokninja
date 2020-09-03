@@ -4,7 +4,7 @@ I'm JT. I'm not a professional developer; I'm more of a hobbyist in all things L
 
 <br>
 
-[![alt text][1.1]][1] [![alt text][2.1]][2] [![alt text][3.1]][3]
+![Twitter Follow](https://img.shields.io/twitter/follow/ewokninja?color=1DA1F2&style=for-the-badge)[1] [![alt text][2.1]][2] [![alt text][3.1]][3]
 
 * :evergreen_tree: working on personal wellbeing
 * :books: learning [ansible][ansible] and [houdini][houdini]
