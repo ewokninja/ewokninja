@@ -12,7 +12,7 @@ I'm JT. I'm not a professional developer; I'm more of a hobbyist in all things L
 * :tv: interested in revamping twitch overlays/motion graphics
 * :speech_balloon: let's chat about technology in live events
 * :mailbox: get a hold of me `jt at jonathan dash tom dot com`
-* :bowtie: pronouns he/him
+* :bowtie: my pronouns are he/him
 * :mortar_board: fun fact: I've been to every continent save antarctica
 
 ---
@@ -44,7 +44,6 @@ I'm JT. I'm not a professional developer; I'm more of a hobbyist in all things L
 [website-url]: https://www.jonathan-tom.com
 [twitter-url]: https://www.twitter.com/ewokninja
 [github-url]: https://www.github.com/ewokninja
-
 
 <!-- links to social media icons -->
 
