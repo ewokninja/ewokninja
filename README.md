@@ -4,7 +4,7 @@ I'm JT. I'm not a professional developer; I'm more of a hobbyist in all things L
 
 <br>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/ewokninja?color=1DA1F2&style=for-the-badge)[1] [![alt text][2.1]][2] [![alt text][3.1]][3]
+![Twitter Follow](https://img.shields.io/twitter/follow/ewokninja?color=1DA1F2&style=for-the-badge) [![alt text][2.1]][2] [![alt text][3.1]][3]
 
 * :evergreen_tree: working on personal wellbeing
 * :books: learning [ansible][ansible] and [houdini][houdini]
@@ -41,13 +41,11 @@ I'm JT. I'm not a professional developer; I'm more of a hobbyist in all things L
 
 <!-- links to your social media accounts -->
 
-[1]: http://www.twitter.com/ewokninja
 [2]: http://www.facebook.com/ewokninja
 [3]: http://linkedin.com/in/jontom
 
 
 <!-- links to social media icons -->
 
-[1.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-24x24.png (twitter icon)
-[2.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-24x24.png (facebook icon)
+[2.1]: https://simpleicons.org/icons/facebook.svg (facebook icon)
 [3.1]: https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-24x24.png (linkedin icon)
