@@ -20,10 +20,10 @@ I'm JT. I'm not a professional developer; I'm more of a hobbyist in all things L
 ### :black_nib: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [apple speed](https://jonathan-tom.com/ramblings/2020/10/13/apple-speed)
 - [time's up](https://jonathan-tom.com/ramblings/2020/9/15/times-up)
 - [fast forward](https://jonathan-tom.com/ramblings/2020/7/12/fast-forward)
 - [wwdc 2020](https://jonathan-tom.com/ramblings/2020/6/22/wwdc-2020)
-- [Impact](https://jonathan-tom.com/ramblings/2020/5/3/impact)
 <!-- BLOG-POST-LIST:END -->
 
 ---
