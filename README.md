@@ -20,10 +20,10 @@ I'm JT. I'm not a professional developer; I'm more of a hobbyist in all things L
 ### :black_nib: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dim the Lights](https://jonathan-tom.com/ramblings/2021/10/20/dim-the-lights)
 - [Ubisoft Forward 2021](https://jonathan-tom.com/ramblings/2021/6/12/ubisoft-forward-2021)
 - [Words from the Executive Goth](https://jonathan-tom.com/ramblings/2021/1/1/words-from-the-executive-goth)
 - [apple speed](https://jonathan-tom.com/ramblings/2020/10/13/apple-speed)
-- [time's up](https://jonathan-tom.com/ramblings/2020/9/15/times-up)
 <!-- BLOG-POST-LIST:END -->
 
 ---
