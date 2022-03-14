@@ -28,8 +28,6 @@ I'm JT. I'm not a professional developer; I'm more of a hobbyist in all things L
 
 ---
 
-[![Ewokninja's github stats](https://github-readme-stats.ewokninja.vercel.app//api?username=ewokninja&count_private=true&show_icons=true&theme=dracula)](https://github.com/ewokninja/github-readme-stats)
-
 <!-- link definitions -->
 
 [pcl]:https://en.wikipedia.org/wiki/Premier_Cruise_Line
