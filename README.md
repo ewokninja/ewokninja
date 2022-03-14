@@ -26,8 +26,6 @@ I'm JT. I'm not a professional developer; I'm more of a hobbyist in all things L
 - [apple speed](https://jonathan-tom.com/ramblings/2020/10/13/apple-speed)
 <!-- BLOG-POST-LIST:END -->
 
----
-
 <!-- link definitions -->
 
 [pcl]:https://en.wikipedia.org/wiki/Premier_Cruise_Line
